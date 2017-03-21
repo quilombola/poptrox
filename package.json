@@ -1,0 +1,12 @@
+{
+  "name": "poptrox",
+  "version": "1.0.0",
+  "description": "HTML5UP poptrox.js",
+  "keywords": [ "poptrox", "html5" ],
+  "homepage": "http://github.com/professorzumbi/poptrox",
+  "repository": { "type": "git",
+                  "url": "https://github.com/professorzumbi/poptrox"
+                },
+  "license": "MIT",
+  "main": "./poptrox.js"
+}
