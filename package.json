@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "HTML5UP poptrox.js",
   "keywords": [ "poptrox", "html5" ],
-  "homepage": "http://github.com/professorzumbi/poptrox",
+  "homepage": "http://github.com/quilombola/poptrox",
   "repository": { "type": "git",
-                  "url": "https://github.com/professorzumbi/poptrox"
+                  "url": "https://github.com/quilombola/poptrox"
                 },
   "license": "MIT",
   "main": "./poptrox.js"
